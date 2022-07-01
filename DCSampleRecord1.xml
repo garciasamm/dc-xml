@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<metadata
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:dcterms="http://purl.org/dc/terms/">
-	
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+
 	<dc:title>[African American Civil War soldier in Union uniform.]</dc:title>
 	<dc:subject xsi:type="dcterms:LCSH">African Americans</dc:subject>
 	<dc:subject xsi:type="dcterms:LCSH">Civil War, 1861-1865</dc:subject>
@@ -29,8 +26,8 @@
 	<dcterms:isPartOf xsi:type="dcterms:URI">http://www.bancroft.berkeley.edu/collections/casedphotos/project.html</dcterms:isPartOf>
 	<dcterms:temporal>ca. 1860-1865</dcterms:temporal>
 	<dcterms:spatial xsi:type="dcterms:ISO3166">US</dcterms:spatial>
-	<dc:relation  xsi:type="dcterms:URI">http://calisphere.universityofcalifornia.edu/</dc:relation>
-	<dc:relation  xsi:type="dcterms:URI">http://bancroft.berkeley.edu/</dc:relation>
+	<dc:relation xsi:type="dcterms:URI">http://calisphere.universityofcalifornia.edu/</dc:relation>
+	<dc:relation xsi:type="dcterms:URI">http://bancroft.berkeley.edu/</dc:relation>
 	<dcterms:provenance>Provenance unknown.</dcterms:provenance>
 	<dcterms:accessRights>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Public Services, The Bancroft Library, University of California, Berkeley 94720-6000. See: http://bancroft.berkeley.edu/reference/permissions.html</dcterms:accessRights>
 	<dcterms:accessRights>Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dcterms:accessRights>
